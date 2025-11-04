@@ -1,4 +1,12 @@
-UX Study for [GSA Auctions](https://gsaauctions.gov/auctions/home)
+# UX Study for [GSA Auctions](https://gsaauctions.gov/auctions/home)
+
+### Planning
+<img width="2000" height="1254" alt="Untitled" src="https://github.com/user-attachments/assets/2fcf45de-6e09-4ef9-9874-0a31f4670f44" />
+
+
+### Rework
+<img width="2000" height="1717" alt="Untitled2" src="https://github.com/user-attachments/assets/fc04b285-66e3-4285-9fe9-c2a29a15c75b" />
+
 
 As a developer, at times you flex into a Designer role when needed on certain projects. These are a few of my times doing that.
 
