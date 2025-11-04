@@ -1,5 +1,7 @@
 # UX Study for [GSA Auctions](https://gsaauctions.gov/auctions/home)
 
+*PDF in Repo*
+
 ### Planning
 <img width="2000" height="1254" alt="Untitled" src="https://github.com/user-attachments/assets/2fcf45de-6e09-4ef9-9874-0a31f4670f44" />
 
